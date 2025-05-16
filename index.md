@@ -6,7 +6,7 @@ layout: page
 
 <img src="/images/personal.jpg" class="floatpic">
 
-Here is **Jiancai Zheng (China 郑建才)**.<br>
+Here is **Jiancai Zheng (郑建才)**.<br>
 
 I am a graduate student in the Department of School of Ocean Engineering at the Shanghai Jiao Tong University. During the doctoral stage, I was supervised by [Prof. MIN ZHAO](https://naoce.sjtu.edu.cn/teachers/5583.html), within [Underwater Engineering Research Institute](https://underwater.sjtu.edu.cn/kytd.htm). During the master's stage, I was advised by [Prof. DC WAN](https://naoce.sjtu.edu.cn/teachers/5497.html) at [Computional Marine Hydrodynamics Lab](https://dcwan.sjtu.edu.cn/). Recently, I was honored to be selected as **AAAI-2024 and KDD-2024 Undergraduate Scholars**.<br>
 
